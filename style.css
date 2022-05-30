@@ -151,11 +151,11 @@
   display: none;
 }
 
-.task-list .task.editMode .task__input {
+.task-list .task.edit-mode .task__input {
   display: inline-block;
   width: 224px;
 }
 
-.task-list .task.editMode .task__label {
+.task-list .task.edit-mode .task__label {
   display: none;
 }
